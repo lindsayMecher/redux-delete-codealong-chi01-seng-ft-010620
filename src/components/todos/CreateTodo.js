@@ -6,7 +6,7 @@ class CreateTodo extends Component {
   constructor() {
     super();
     this.state = {
-      text: '',
+      text: ''
     };
   }
 
